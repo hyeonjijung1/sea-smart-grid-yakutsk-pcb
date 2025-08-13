@@ -4,7 +4,7 @@
 
 | Competition Poster | 3D PCB Render |
 |--------------------|---------------|
-| ![SEA Poster](images/poster.png) | ![3D PCB Render](images/header-3d.png) |
+| ![SEA Poster](docs/poster.png) | ![3D PCB Render](images/header-3d.png) |
 
 > Concept design of a modular smart grid PCB for Yakutsk, Russia — one of the coldest inhabited cities in the world.  
 > Focused on renewable integration, local resilience, and efficient power distribution under extreme climate conditions.
@@ -25,7 +25,8 @@ This design proposes a **localized smart energy grid** to improve efficiency, re
 |---------------|
 | ![Block Diagram](images/block-diagram-sea.png) |
 
-This diagram shows the modular smart grid design — integrating renewable sources, energy storage, local distribution, and fault-tolerant switching for Yakutsk's extreme climate.
+>This diagram shows the modular smart grid design — integrating renewable sources, energy storage, local distribution, and fault-tolerant switching for Yakutsk's extreme climate.
+
 ---
 
 ## PCB Design Overview
