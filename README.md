@@ -67,4 +67,4 @@ LICENSE
 ---
 
 ## Author
-[![LinkedIn: Hyeonji Jung](https://img.shields.io/badge/LinkedIn-Hyeonji%20Jung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hyeonjijung/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diana%20Jung-blue?logo=linkedin)](https://www.linkedin.com/in/dianajung-uoft/)
